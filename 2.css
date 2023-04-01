@@ -1,0 +1,23 @@
+body{
+	background-color:skyblue;
+}
+h1{
+	color:Darkblue;
+margin-left: 20px;
+}
+p{
+	color:Darkblue;
+margin-left: 20px;
+}
+.regclass{
+	margin-left:140px;
+	margin-top:150px;
+}
+.pretty{
+	background-color:grey;
+	width:500px;
+	height:500px;
+	margin-left:500px;
+	border-radius:40%;
+	box-shadow:0 4px 8px 0 black,0 6px 20px 0 black;
+}

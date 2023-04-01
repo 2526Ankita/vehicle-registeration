@@ -1,0 +1,30 @@
+b{
+    font-size: 150px;
+}
+.block {
+        display: block;
+        width: 100%;
+        border: none;
+        background-color: #00020100;
+        padding: 14px 28px;
+        font-size: 40px;
+        cursor: pointer;
+        text-align: center;
+}
+.class2{
+    width:5000px;
+    height:400px;
+    background-color:white;
+    margin-top:1400px;
+    margin-left:400px;
+
+}
+.class21{
+    margin-top:-50px;
+    font-size:large;
+}
+.class22{
+    font-size:70px;
+    margin-left:1200px;
+    margin-top:-500px;
+}
